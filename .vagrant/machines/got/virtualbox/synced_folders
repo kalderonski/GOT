@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/got":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/got","hostpath":"C:/Users/k1000o/Code/GOT","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/k1000o/Code/GOT","disabled":false,"__vagrantfile":true}}}
